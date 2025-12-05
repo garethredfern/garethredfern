@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm a Full Stack developer working with VueJS & Laravel
+### I'm a Full Stack developer working with VueJS & Svelte
 
-- 🛠️ I build systems and websites using VueJS & Nuxt.
-- ✍️ I write about Javascript, Laravel & VueJS at [redfern.dev](https://redfern.dev).
+- 🛠️ I build systems and websites using VueJS & Svelte.
+- ✍️ I write about Javascript, Svelte & VueJS at [redfern.dev](https://redfern.dev).
