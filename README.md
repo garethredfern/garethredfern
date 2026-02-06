@@ -1,12 +1,12 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0a0614,30:9945FF,100:14F195&height=200&section=header&text=Gareth%20Redfern&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer&descSize=20&descColor=14F195&descAlignY=55" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7032cc,50:9945FF,100:14F195&height=200&section=header&text=Gareth%20Redfern&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer&descSize=20&descColor=14F195&descAlignY=55" />
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e8d5f5,30:9945FF,100:14F195&height=200&section=header&text=Gareth%20Redfern&fontSize=50&fontColor=000000&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer&descSize=20&descColor=333333&descAlignY=55" />
   <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:e8d5f5,30:9945FF,100:14F195&height=200&section=header&text=Gareth%20Redfern&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer&descSize=20&descAlignY=55" width="100%" />
 </picture>
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9945FF&center=true&vCenter=true&multiline=false&width=500&lines=Building+with+Svelte+%26+Vue;Cycling+enthusiast+%F0%9F%9A%B4;Electronic+music+lover+%F0%9F%8E%B6;Open+source+contributor;Writing+at+redev.rocks&v=2" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=14F195&center=true&vCenter=true&multiline=false&width=500&lines=Building+with+Svelte+%26+Vue;Cycling+enthusiast+%F0%9F%9A%B4;Electronic+music+lover+%F0%9F%8E%B6;Open+source+contributor;Writing+at+redev.rocks&v=3" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -123,7 +123,7 @@
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:14F195,70:9945FF,100:0a0614&height=120&section=footer" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:14F195,50:9945FF,100:7032cc&height=120&section=footer" />
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:14F195,70:9945FF,100:e8d5f5&height=120&section=footer" />
   <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:14F195,70:9945FF,100:e8d5f5&height=120&section=footer" width="100%" />
 </picture>
