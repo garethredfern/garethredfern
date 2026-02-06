@@ -32,14 +32,14 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Stats
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=garethredfern&theme=discord&no-frame=true&column=7" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-trophies.vercel.app/?username=garethredfern&theme=flat&no-frame=true&column=7" />
-  <img alt="Trophies" src="https://github-trophies.vercel.app/?username=garethredfern&theme=flat&no-frame=true&column=7" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/garethredfern/garethredfern/output/stats-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/garethredfern/garethredfern/output/stats-light.svg" />
+  <img alt="GitHub Stats" src="https://raw.githubusercontent.com/garethredfern/garethredfern/output/stats-light.svg" />
 </picture>
 
 </div>
