@@ -37,9 +37,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=garethredfern&theme=discord&no-frame=true&column=7" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=garethredfern&theme=flat&no-frame=true&column=7" />
-  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=garethredfern&theme=flat&no-frame=true&column=7" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=garethredfern&theme=discord&no-frame=true&column=7" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-trophies.vercel.app/?username=garethredfern&theme=flat&no-frame=true&column=7" />
+  <img alt="Trophies" src="https://github-trophies.vercel.app/?username=garethredfern&theme=flat&no-frame=true&column=7" />
 </picture>
 
 </div>
