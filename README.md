@@ -77,35 +77,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=garethredfern&show_icons=true&hide_title=true&count_private=true&theme=github_dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=garethredfern&show_icons=true&hide_title=true&count_private=true&theme=default&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=garethredfern&show_icons=true&hide_title=true&count_private=true&theme=default&hide_border=true" width="48%" alt="GitHub Stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=garethredfern&theme=github-dark-blue&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=garethredfern&theme=default&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=garethredfern&theme=default&hide_border=true" width="48%" alt="GitHub Streak" />
-</picture>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=garethredfern&theme=github-compact&hide_border=true&area=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=garethredfern&theme=minimal&hide_border=true&area=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=garethredfern&theme=minimal&hide_border=true&area=true" width="98%" alt="Activity Graph" />
-</picture>
-
-</div>
-
 ---
 
 ### 🐍 Contribution Snake
