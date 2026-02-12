@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7032cc%2C50:9945FF%2C100:14F195&height=200&section=header&text=Gareth%20Redfern&fontSize=36&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer&descSize=18&descColor=14F195&descAlignY=55&fontFamily=Fira%20Code" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e8d5f5%2C30:9945FF%2C100:14F195&height=200&section=header&text=Gareth%20Redfern&fontSize=36&fontColor=000000&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer&descSize=18&descColor=333333&descAlignY=55&fontFamily=Fira%20Code" />
-  <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:e8d5f5,30:9945FF,100:14F195&height=200&section=header&text=Gareth%20Redfern&fontSize=36&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer&descSize=18&descAlignY=55&fontFamily=Fira%20Code" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7032cc%2C50:9945FF%2C100:14F195&height=200&section=header&text=Gareth&fontSize=36&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer&descSize=18&descColor=14F195&descAlignY=55&fontFamily=Fira%20Code" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e8d5f5%2C30:9945FF%2C100:14F195&height=200&section=header&text=Gareth&fontSize=36&fontColor=000000&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer&descSize=18&descColor=333333&descAlignY=55&fontFamily=Fira%20Code" />
+  <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:e8d5f5,30:9945FF,100:14F195&height=200&section=header&text=Gareth&fontSize=36&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer&descSize=18&descAlignY=55&fontFamily=Fira%20Code" width="100%" />
 </picture>
 
 <div align="center">
