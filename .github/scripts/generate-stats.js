@@ -1,7 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 
-const USERNAME = "garethredfern";
+const USERNAME = "0xgdr";
 
 async function fetchGitHubStats() {
   const headers = {};
@@ -131,7 +131,7 @@ function generateSVG(stats, theme) {
     <rect width="${cardWidth}" height="4" fill="url(#accent)"/>
 
     <!-- Title -->
-    <text x="20" y="38" fill="${textPrimary}" font-size="14" font-weight="700" font-family="'Fira Code', monospace">garethredfern's GitHub Stats</text>
+    <text x="20" y="38" fill="${textPrimary}" font-size="14" font-weight="700" font-family="'Fira Code', monospace">0xgdr's GitHub Stats</text>
 
     <!-- Stats -->
     ${statElements}

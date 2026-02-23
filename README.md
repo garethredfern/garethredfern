@@ -11,7 +11,7 @@
 <br/>
 
 [![Blog](https://img.shields.io/badge/redev.rocks-000?style=for-the-badge&logo=astro&logoColor=white)](https://redev.rocks)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/garethredfern)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xgdr)
 
 </div>
 
@@ -37,9 +37,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/garethredfern/garethredfern/output/stats-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/garethredfern/garethredfern/output/stats-light.svg" />
-  <img alt="GitHub Stats" src="https://raw.githubusercontent.com/garethredfern/garethredfern/output/stats-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xgdr/0xgdr/output/stats-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xgdr/0xgdr/output/stats-light.svg" />
+  <img alt="GitHub Stats" src="https://raw.githubusercontent.com/0xgdr/0xgdr/output/stats-light.svg" />
 </picture>
 
 </div>
@@ -50,11 +50,11 @@
 
 | Repo | Description | Stars |
 |------|-------------|:-----:|
-| [laravel-vue](https://github.com/garethredfern/laravel-vue) | VueJS SPA with Sanctum & Fortify auth on Laravel | ⭐ 130 |
-| [laravelvue-spa](https://github.com/garethredfern/laravelvue-spa) | Docs site for building a Laravel API + Vue SPA | ⭐ 105 |
-| [laravel-api](https://github.com/garethredfern/laravel-api) | Laravel base install with Sanctum & Fortify as an API | ⭐ 67 |
-| [nuxt-basic-blog](https://github.com/garethredfern/nuxt-basic-blog) | Starter blog templates for Nuxt | ⭐ 58 |
-| [vue-auth-demo](https://github.com/garethredfern/vue-auth-demo) | Vue.js auth demo with Firebase & Vuex | ⭐ 54 |
+| [laravel-vue](https://github.com/0xgdr/laravel-vue) | VueJS SPA with Sanctum & Fortify auth on Laravel | ⭐ 130 |
+| [laravelvue-spa](https://github.com/0xgdr/laravelvue-spa) | Docs site for building a Laravel API + Vue SPA | ⭐ 105 |
+| [laravel-api](https://github.com/0xgdr/laravel-api) | Laravel base install with Sanctum & Fortify as an API | ⭐ 67 |
+| [nuxt-basic-blog](https://github.com/0xgdr/nuxt-basic-blog) | Starter blog templates for Nuxt | ⭐ 58 |
+| [vue-auth-demo](https://github.com/0xgdr/vue-auth-demo) | Vue.js auth demo with Firebase & Vuex | ⭐ 54 |
 
 ---
 
@@ -84,9 +84,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/garethredfern/garethredfern/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/garethredfern/garethredfern/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/garethredfern/garethredfern/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xgdr/0xgdr/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xgdr/0xgdr/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/0xgdr/0xgdr/output/github-snake.svg" />
 </picture>
 
 </div>
